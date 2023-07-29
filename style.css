@@ -1,6 +1,13 @@
-.container 
+.navigateur
 {
 
-section {
+.container {
+ }
+
+.nav{
   display: flex;
-}
+}           
+
+.liste {
+  display: flex;
+}           
