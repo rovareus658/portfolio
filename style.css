@@ -1,7 +1,7 @@
 .navigateur
 {
 
-.container {
+.container {display: flex;
  }
 
 .nav{
